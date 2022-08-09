@@ -9,7 +9,7 @@ function isEqualSymbols(str1, str2) {
 	return false
 }
 
-function compareEqualSymbols() {
+function task16() {
 	console.log("'кот', 'тик':", isEqualSymbols('кот', 'тик'))
 	console.log("'кот', 'ток':", isEqualSymbols('кот', 'ток'))
 }
